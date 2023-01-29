@@ -7,13 +7,11 @@
 
 - 🔭 I’m currently working at **LTIMindtree**
 
-- 🌱 I’m currently learning **GraphQL, AWS, and Algorithms**
-
-- 👯 I’m looking to collaborate on **Distributed Systems and MERN Stack based projects**
-
-- 👨‍💻 All of my projects are available at [https://ankitbasrur.vercel.app/](https://ankitbasrur.vercel.app/)
+- 🌱 I’m currently learning **AWS, GraphQL, and Algorithms**
 
 - 💬 Ask me about **Scalability/performance tuning, Full Stack Development, and Competitive Programming**
+
+<!-- - 👨‍💻 All of my projects are available at [https://ankitbasrur.vercel.app/](https://ankitbasrur.vercel.app/) -->
 
 - 📫 How to reach me **ankitbasrur@gmail.com**
 
