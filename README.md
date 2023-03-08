@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Scalability/performance tuning, Full Stack Development, and Competitive Programming**
 
-<!-- - 👨‍💻 All of my projects are available at [https://ankitbasrur.vercel.app/](https://ankitbasrur.vercel.app/) -->
+- 👨‍💻 All of my projects are available at [LINK](https://ankitbasrur.vercel.app/)
 
 - 📫 How to reach me **ankitbasrur@gmail.com**
 
