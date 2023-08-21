@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ankitbasrur@gmail.com**
 
-- 📄 Know about my experiences [Resume]([https://drive.google.com/file/d/1AUA8qRmu_792XPB2D4-kF2y1yW6HUWE_/view?usp=sharing](https://drive.google.com/file/d/1AUA8qRmu_792XPB2D4-kF2y1yW6HUWE_/view?usp=drive_link))
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1AUA8qRmu_792XPB2D4-kF2y1yW6HUWE_/view?usp=sharing](https://drive.google.com/file/d/1AUA8qRmu_792XPB2D4-kF2y1yW6HUWE_/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
