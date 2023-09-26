@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently pursuing my **Master's** in **Computer Science** from **Arizona State University**.
 
-- 🌱 I’m currently learning **AWS, GraphQL, and Algorithms**
+- 🌱 I’m currently learning **d3.js, GraphQL, and Algorithms**
 
 - 💬 Ask me about **Scalability/performance tuning, Full Stack Development, and Competitive Programming**
 
