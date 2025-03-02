@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitbasrur" alt="ankitbasrur" /></a> </p>
 
-- 🔭 I’m currently pursuing my **Master's** in **Computer Science** from **Arizona State University**.
+- 🔭 I’m pursuing my **Master's** in **Computer Science** from **Arizona State University**.
 
-- 🌱 I’m currently learning **d3.js, GraphQL, and Algorithms**
+- 🌱 I’m currently learning **3D model rendering on web pages, AWS, and Graph algorithms**
 
-- 💬 Ask me about **Scalability/performance tuning, Full Stack Development, and Competitive Programming**
+- 💬 Ask me about **Distributed Systems, Full Stack Development, and Competitive Programming**
 
-- 👨‍💻 All of my projects are available at [Link](https://ankitbasrur.vercel.app/)
+- 👨‍💻 All of my projects are available at [Link](https://ankitbasrur.github.io/Ankit-Portfolio/)
 
 - 📫 How to reach me **ankitbasrur@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1fVdp7p6Qr6GyC2yT4HD2ue9I64kF_RB4/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/15Nzdy97a7wsc2msOFGaa8memB24B5ciA/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
