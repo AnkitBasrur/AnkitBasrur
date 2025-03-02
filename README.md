@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **3D model rendering on web pages, AWS, and Graph algorithms**
 
-- 💬 Ask me about **Distributed Systems, Full Stack Development, and Competitive Programming**
+- 💬 I enjoy reading blogs on **Designing Systems, Full Stack, and Competitive Programming**
 
 - 👨‍💻 All of my projects are available at [Link](https://ankitbasrur.github.io/Ankit-Portfolio/)
 
