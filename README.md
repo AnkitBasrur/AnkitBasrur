@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit Basrur</h1>
-<h3 align="center">A passionate Full Stack Developer based in the United States.</h3>
+<h3 align="center">A Software Engineer passionate about building and advancing tech innovations.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitbasrur&label=Profile%20views&color=0e75b6&style=flat" alt="ankitbasrur" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I pursued **Master's** in **Computer Science** from **Arizona State University**.
 
-- 🌱 Exploring the intricacies of large-scale systems is my current obsession, and I am learning something new every day!
+- 🌱 Exploring the intricacies of large-scale systems is my obsession, and I am learning something new every day!
 
 - 👨‍💻 All of my projects are available at [Link](https://ankitbasrur.github.io/Ankit-Portfolio/)
 
