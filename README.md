@@ -7,9 +7,7 @@
 
 - 🔭 I pursued **Master's** in **Computer Science** from **Arizona State University**.
 
-- 🌱 I’m currently diving deep into the wonderful world of designing large-scale systems.
-
-- 💬 I enjoy reading blogs on **Designing Systems, Full Stack, and Competitive Programming**
+- 🌱 Exploring the intricacies of large-scale systems is my current obsession, and I am learning something new every day!
 
 - 👨‍💻 All of my projects are available at [Link](https://ankitbasrur.github.io/Ankit-Portfolio/)
 
