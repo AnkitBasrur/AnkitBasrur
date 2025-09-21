@@ -5,14 +5,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitbasrur" alt="ankitbasrur" /></a> </p>
 
-- 🔭 I pursued **Master's** in **Computer Science** from **Arizona State University**.
+- 🔭 I’m currently working on building projects and contributing to open source.
 
-- 🌱 Exploring the intricacies of large-scale systems is my obsession, and I am learning something new every day!
+- 🌱 I'm learning Distributed Systems and Golang!
+
+- Ask me about Java, AWS, TypeScript, and React
 
 - 👨‍💻 All of my projects are available at [Link](https://ankitbasrur.github.io/Ankit-Portfolio/)
 
 - 📫 How to reach me **ankitbasrur@gmail.com**
 
+</p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ankitbasrur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shubhamrs" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
