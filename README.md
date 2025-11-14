@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on building projects and contributing to open source.
 
-- Ask me about Java, AWS, React, and Swift
+- Ask me about JavaScript, React, Java and AWS
 
 - 👨‍💻 All of my projects are available at [Link](https://ankitbasrur.github.io/Ankit-Portfolio/)
 
