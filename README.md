@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankitbasrur" alt="ankitbasrur" /></a> </p>
 
-- 🔭 I’m currently working on building projects and contributing to open source.
-
-- Ask me about JavaScript, React, Java and AWS
+- Ask me about Java, React, JavaScript, and AWS
 
 - 👨‍💻 All of my projects are available at [Link](https://ankitbasrur.github.io/Ankit-Portfolio/)
 
