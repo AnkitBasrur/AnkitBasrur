@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitbasrur&label=Profile%20views&color=0e75b6&style=flat" alt="ankitbasrur" /> </p>
 
-- Ask me about Java, React, JavaScript, and AWS
-
 - 👨‍💻 All of my projects are available at [Link](https://ankitbasrur.github.io/Ankit-Portfolio/)
 
 - One of my popular works got featured at the GSV Conference!! [Demo](https://youtube.com/shorts/7HlcGrXV3FM?feature=share)
