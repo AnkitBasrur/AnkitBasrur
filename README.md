@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [Link](https://ankitbasrur.github.io/Ankit-Portfolio/)
 
-- One of my popular works got featured at the GSV Conference!! [Demo](https://youtube.com/shorts/7HlcGrXV3FM?feature=share)
+- One of my popular works got featured at the GSV Conference! [Link](https://youtube.com/shorts/7HlcGrXV3FM?feature=share)
 
 - 📫 How to reach me **ankitbasrur@gmail.com**
 
